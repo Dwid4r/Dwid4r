@@ -11,15 +11,15 @@
 
 ## 🔗 Connect with me
 - GitHub: [dwid4r](https://github.com/dwid4r)
-- LinkedIn: [Youssef Dwidar](https://www.linkedin.com/in/youssef-dwidar/) <!-- لو عندك لينكدإن -->
-- Email: **youremail@example.com**
+- LinkedIn: [Youssef Dwidar]www.linkedin.com/in/dewidar1001 <!-- لو عندك لينكدإن -->
+- Email: **yousefdweedr123@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Tools
-- Languages: C++, Java, Python
+- Languages: C++,Python
 - Tools: Git & GitHub, Linux, VS Code
-- Interests: Problem Solving, Open Source, Cloud
+- Interests: Problem Solving, Open Source
 
 ---
 

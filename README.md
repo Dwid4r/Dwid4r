@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Youssef Dwidar
 
-<!--
-**Dwid4r/Dwid4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Competitive Programming Enthusiast | 🌱 Open Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Hacktoberfest Badges
+[![@dwid4r's Holopin board](https://holopin.me/dwid4r)](https://holopin.io/@dwid4r)
+
+---
+
+## 🔗 Connect with me
+- GitHub: [dwid4r](https://github.com/dwid4r)
+- LinkedIn: [Youssef Dwidar](https://www.linkedin.com/in/youssef-dwidar/) <!-- لو عندك لينكدإن -->
+- Email: **youremail@example.com**
+
+---
+
+## 🛠️ Skills & Tools
+- Languages: C++, Java, Python
+- Tools: Git & GitHub, Linux, VS Code
+- Interests: Problem Solving, Open Source, Cloud
+
+---
+
+⭐️ From [dwid4r](https://github.com/dwid4r)

@@ -6,6 +6,8 @@
 
 ## 🏆 Hacktoberfest Badges
 [![@dwid4r's Holopin board](https://holopin.me/dwid4r)](https://holopin.io/@dwid4r)
+[![@dwid4r's Holopin board](https://holopin.me/dwid4r)](https://holopin.io/@dwid4r)
+[![@dwid4r's Holopin board](https://holopin.me/dwid4r)](https://holopin.io/@dwid4r)
 
 ---
 
